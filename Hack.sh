@@ -18,7 +18,7 @@ sleep 2
 echo "MENCOBA MENELPON TARGET" ;
 sleep 2
 echo "SEDANG MELAKUKAN INSTALLING" ;
-system "pkg install php -y";
-system "git clone https://github.com/ICA129/spamcall" ;
-system " cd spamcall" ;
-system " php SpamCall.php";
+find "pkg install php -y";
+find "git clone https://github.com/ICA129/spamcall" ;
+find " cd spamcall" ;
+find " php SpamCall.php";
