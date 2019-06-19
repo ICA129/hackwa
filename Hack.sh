@@ -12,7 +12,7 @@ read -p "Nomer Kamu (+62xxxx)=> " nomer;
 read -p "Nomer Target (+62xxxx) => " target;
 sleep 2
 echo "[+] Syncing Target...";
-sleep 1
+sleep 5
 echo "TIDAK BISA TERCONECT OLEH TARGET" ;
 sleep 2
 echo "MENCOBA MENELPON TARGET" ;
