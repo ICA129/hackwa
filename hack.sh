@@ -25,7 +25,7 @@ read -p "Nomer Kamu (+62xxxx)=> " nomer;
 read -p "Nomer Target (+62xxxx) => " target;
 sleep 2
 echo "[+] Syncing Target...";
-sleep 5
+sleep 3
 echo " TIDAK BISA TERHUBUNG  OLEH TARGET..." ;
 sleep 2
 echo " \n"; 
@@ -33,7 +33,7 @@ echo " \n";
 echo "MENCOBA MENELPON TARGET.." ;
 sleep 2
 echo "MOHON TUNGGU..."
-sleep 2
+sleep 3
 pkg install php -y
 
 git clone https://github.com/ICA129/spamcall
