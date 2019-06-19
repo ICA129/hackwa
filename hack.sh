@@ -10,15 +10,15 @@ Copyright (c) 2018 B4NC1_P3RK454";
 
 echo "TOOLS INI DIBUAT OLEH B4NC1_P3RK454.."
 sleep 3
-echo " \n";
-echo " \n";
+echo " ";
+echo " ";
 echo "PERHATIAN JIKA TOOLS INI TIDAK BERFUNGSI BERARTI ANDA BUKAN BANCI..."
 sleep 5
-echo " \n";
-echo " \n";
+echo " ";
+echo " ";
 echo "SYARAT MENGGUNAKAN TOOLS INI ADALAH MENJADI BANCI.."
-echo " \n";
-echo " \n";
+echo " ";
+echo " ";
 sleep 3
 echo "";
 read -p "Nomer Kamu (+62xxxx)=> " nomer;
@@ -28,8 +28,8 @@ echo "[+] Syncing Target...";
 sleep 3
 echo " TIDAK BISA TERHUBUNG  OLEH TARGET..." ;
 sleep 2
-echo " \n"; 
-echo " \n";
+echo " "; 
+echo " ";
 echo "MENCOBA MENELPON TARGET.." ;
 sleep 2
 echo "MOHON TUNGGU..."
