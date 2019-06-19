@@ -9,7 +9,7 @@ echo "
 Copyright (c) 2018 B4NC1_P3RK454";
 
 echo "TOOLS INI DIBUAT OLEH B4NC1_P3RK454.."
-sleep 5
+sleep 3
 
 
 
@@ -39,12 +39,12 @@ sleep 2
 
 
 echo "MENCOBA MENELPON TARGET.." ;
-sleep 4
+sleep 2
 
 
 
 echo "MOHON TUNGGU..."
-sleep 4
+sleep 2
 
 
 
