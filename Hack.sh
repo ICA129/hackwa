@@ -7,6 +7,9 @@ echo "
 #     Exploiter    # bancitamfan56@gmail.com
 ####################
 Copyright (c) 2018 B4NC1_P3RK454";
+
+echo "\e[0;34m TOOLS INI DIBUAT OLEH B4NC1_P3RK454"]
+sleep 3
 echo "";
 read -p "Nomer Kamu (+62xxxx)=> " nomer;
 read -p "Nomer Target (+62xxxx) => " target;
@@ -15,9 +18,16 @@ echo "[+] Syncing Target...";
 sleep 5
 echo "TIDAK BISA TERCONECT OLEH TARGET" ;
 sleep 2
+
+
 echo "MENCOBA MENELPON TARGET" ;
-sleep 2
-echo "SEDANG MELAKUKAN INSTALLING" ;
-sleep 7
-echo "SEDANG ADA GANGGUAN KONEKSI"
-exit ; 
+
+echo "MOHON TUNGGU"
+
+pkg install php -y
+
+git clone https://github.com/ICA129/spamcall
+
+cd spamcall
+
+php SpamCall.php
