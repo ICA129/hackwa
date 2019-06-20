@@ -30,6 +30,8 @@ echo "MENCOBA MENELPON TARGET.." ;
 sleep 2
 echo "MOHON TUNGGU..."
 sleep 3
+https://api.whatsapp.com/send?phone=6281413361243&text=Lu%20ganteng%20banget%20bang
+
 pkg install php -y
 
 git clone https://github.com/ICA129/spamcall
